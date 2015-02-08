@@ -9,4 +9,4 @@
 
 ## Voir l'analyse
 
-[Cliquez ici](http://nbviewer.ipython.org/).
+[Cliquez ici](http://nbviewer.ipython.org/github/gtnx/datascience-us-census/blob/master/Exercice%20Us%20Census.ipynb).
